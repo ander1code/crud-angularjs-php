@@ -1,6 +1,13 @@
 # crud-angularjs
 
-![GitHub](https://img.shields.io/github/license/anderson-81/crud-angularjs)![GitHub last commit](https://img.shields.io/github/last-commit/anderson-81/crud-angularjs)![GitHub language count](https://img.shields.io/github/languages/count/anderson-81/crud-angularjs)![GitHub top language](https://img.shields.io/github/languages/top/anderson-81/crud-angularjs)![GitHub All Releases](https://img.shields.io/github/downloads/anderson-81/crud-angularjs/total)
+![Programming Language](https://img.shields.io/badge/PHP-lavender?style=flat&logo=php&logoColor=white) ![Programming Language](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)  
+![Framework](https://img.shields.io/badge/AngularJS-darkred?style=flat&logo=angular&logoColor=white)
+
+![Database](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white) ![Database](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) ![PDO](https://img.shields.io/badge/PDO-777BB4?logo=php&logoColor=white)   
+![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-angularjs-php?color=yellow&logo=github) 
+
 
 ### 1 - Description:
 - Registration system: Frontend made in AngularJS. Backend made in PHP with SQLite3 database.
